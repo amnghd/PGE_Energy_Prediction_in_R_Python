@@ -3,7 +3,7 @@
 
 This work is dedicated on predicting aggregated energy consumption of different customer sectors.
 
-Data is available from [here](https://pge-energydatarequest.com/public_datasets).
+Data is available [here](https://pge-energydatarequest.com/public_datasets).
 
 The work is dividied into two sections. 
 
